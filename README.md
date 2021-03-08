@@ -1,6 +1,6 @@
 Mad Mike: Escape The Storm
 ===========================
-# Automobile sim made with Unreal Engine 4. 
+# Automobile sim made with Unreal Engine 4
 Final project for "Introduction to video game development" classes. 
 
 ![screen 1](https://user-images.githubusercontent.com/49094709/110365385-4265d200-8045-11eb-97e5-a60815e580ed.png)
@@ -15,8 +15,8 @@ The point of the game is to drive to the village in a certain time. The player h
 
 #
 
-# Symulator jazdy samochodem zrobiony na silniku Unreal Engine 4. 
-Projekt zaliczeniowy z przedmiotu "Wprowadzenie do tworzenia gier wideo."
+# Symulator jazdy samochodem na silniku Unreal Engine 4
+Projekt zaliczeniowy z przedmiotu "Wprowadzenie do tworzenia gier wideo".
 
 ## Rozgrywka
 
