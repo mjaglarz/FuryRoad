@@ -13,7 +13,9 @@ Final project for "Introduction to video game development" classes.
 
 The point of the game is to drive to the village in a certain time. The player has the option to restart the game, pause it or play it again.
 
-#Symulator jazdy samochodem zrobiony na silniku Unreal Engine 4. 
+#
+
+# Symulator jazdy samochodem zrobiony na silniku Unreal Engine 4. 
 Projekt zaliczeniowy z przedmiotu "Wprowadzenie do tworzenia gier wideo."
 
 ## Rozgrywka
